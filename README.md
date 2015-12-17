@@ -71,3 +71,8 @@ Licenciado en informática por la Universidad Politécnica de Madrid (UPM) des
 - Slideshare: jvelez77
 - Github: javiervelezreyes 
 - Youtube: youtube.com/user/javiervelezreyes
+
+### Referencias
+- Video: https://goo.gl/Qw2fqQ
+- Slideshare: http://goo.gl/w45YBG
+- Github: https://goo.gl/CIuVAL
